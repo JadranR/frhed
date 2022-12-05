@@ -106,7 +106,7 @@ msgstr "&Izhod\tAlt+F4"
 #: heksedit.rc:42
 #, c-format
 msgid "&Disk"
-msgstr "&Laufwerk"
+msgstr "&Disk"
 
 #: heksedit.rc:44
 #, c-format
@@ -958,12 +958,12 @@ msgstr "Jezik:"
 #: heksedit.rc:493
 #, c-format
 msgid "Append"
-msgstr "Priloži"
+msgstr "Dodaj"
 
 #: heksedit.rc:496
 #, c-format
 msgid "Bytes to append to the end of the file:"
-msgstr "Bajtov za prilaganje na konec datoteke:"
+msgstr "Bajtov za dodajanje na konec datoteke:"
 
 #: heksedit.rc:504
 #, c-format
@@ -1481,7 +1481,7 @@ msgstr "Na&mizje"
 #: heksedit.rc:839
 #, c-format
 msgid "S&tart Menu"
-msgstr "Meni &Začetek"
+msgstr "&Začetni meni"
 
 #: heksedit.rc:841
 #, c-format
@@ -1521,7 +1521,7 @@ msgstr "Pre&makni"
 #: heksedit.rc:852
 #, c-format
 msgid "&Reload"
-msgstr "Pono&vno naloži"
+msgstr "Zno&va naloži"
 
 #: heksedit.rc:853
 #, c-format
@@ -1653,12 +1653,12 @@ msgstr "Vedno daj priložnost spremembe med premikom in kopiranjem po spuščanj
 #: heksedit.rc:921
 #, c-format
 msgid "CF_HDROP opens the files dropped."
-msgstr "CF_HDROP odpre padle datoteke."
+msgstr "CF_HDROP odpre spuščene datoteke."
 
 #: heksedit.rc:923
 #, c-format
 msgid "Drop \"BinaryData\" if present"
-msgstr "Spustii \"BinaryData\", če je prisoten"
+msgstr "Spusti \"BinaryData\", če je prisoten"
 
 #: heksedit.rc:926
 #, c-format
@@ -1703,7 +1703,7 @@ msgstr "Povleci \"Format obogatenega besedila\" (kot 16-tiško smetišče)"
 #: heksedit.rc:953
 #, c-format
 msgid "Multiple files dropped"
-msgstr "Spuščeno veEdatotek"
+msgstr "Spuščeno več datotek"
 
 #: heksedit.rc:956
 #, c-format
@@ -1928,12 +1928,12 @@ msgstr ""
 #: heksedit.rc:1058
 #, c-format
 msgid "Error code 0x%x occurred while opening file %s."
-msgstr "Prišlojedokodenapake0x%xpriodpiranjudatoteke%s."
+msgstr "Prišlo je do kode napake 0x%x pri odpiranju datoteke %s."
 
 #: heksedit.rc:1059
 #, c-format
 msgid "Could not save preferences to registry."
-msgstr "Ni bilo mogoče shranit nastavitev v register."
+msgstr "Ni bilo mogoče shraniti nastavitev v register."
 
 #: heksedit.rc:1060
 #, c-format
@@ -1943,7 +1943,7 @@ msgstr "Datoteka je prazna."
 #: heksedit.rc:1061
 #, c-format
 msgid "An error occurred when calling the text editor."
-msgstr "Priklicanjuurejevalnikabesediljeprišlodonapake."
+msgstr "Pri klicanju urejevalnika besedil je prišlo do napake."
 
 #: heksedit.rc:1062
 #, c-format
@@ -1966,7 +1966,7 @@ msgid ""
 "Could not get text from the file.\n"
 "Cannot continue!"
 msgstr ""
-"Ne morem dobiti besedila iz datoteke.\n"
+"Ne mogoče dobiti besedila iz datoteke.\n"
 "Ni mogoče nadaljevati!"
 
 #: heksedit.rc:1071
@@ -2023,7 +2023,7 @@ msgstr "V prazno datoteko ni mogoče nastaviti zaznamka."
 #: heksedit.rc:1090
 #, c-format
 msgid "Can not set any more bookmarks."
-msgstr "Ni veEmogoče nastaviti zaznamkov."
+msgstr "Ni več mogoče nastaviti zaznamkov."
 
 #: heksedit.rc:1091
 #, c-format
@@ -2138,12 +2138,12 @@ msgstr ""
 #: heksedit.rc:1135
 #, c-format
 msgid "Can't copy more bytes than are present."
-msgstr "Ni mogoče kopirati veEbajtov, kot je navzočih."
+msgstr "Ni mogoče kopirati več bajtov, kot je navzočih."
 
 #: heksedit.rc:1142
 #, c-format
 msgid "Can't cut more bytes than are present."
-msgstr "Ni mogoče izrezati veEbajtov, kot jih je trenutno."
+msgstr "Ni mogoče izrezati več bajtov, kot jih je trenutno."
 
 #: heksedit.rc:1143
 #, c-format
@@ -2158,7 +2158,7 @@ msgstr "Podatkov ni bilo mogoče izrezati."
 #: heksedit.rc:1150
 #, c-format
 msgid "Can't delete more bytes than are present."
-msgstr "Ni mogoče izbrisati veEbajtov, kot jih je trenutno."
+msgstr "Ni mogoče izbrisati več bajtov, kot jih je trenutno."
 
 #: heksedit.rc:1151
 #, c-format
@@ -2203,7 +2203,7 @@ msgstr "Ni dovolj pomnilnika za vstavljanje."
 #: heksedit.rc:1169
 #, c-format
 msgid "Not enough space for overwriting."
-msgstr "Ni dovolj prostora za prepisovanje."
+msgstr "Ni dovolj prostora za prepis."
 
 #: heksedit.rc:1175
 #, c-format
@@ -2218,7 +2218,7 @@ msgstr "Ni mogoče zapolniti izbire z nizom ničelne velikosti."
 #: heksedit.rc:1177
 #, c-format
 msgid "Too many bytes to fill with or some other error."
-msgstr "PreveEbajtov za zapolnitev ali kakšna druga napaka."
+msgstr "Preveč bajtov za zapolnitev ali kakšna druga napaka."
 
 #: heksedit.rc:1183
 #, c-format
@@ -2258,7 +2258,7 @@ msgstr "&Velikost datoteke: %lld bajtov. Koliko bajtov z analaganje:"
 #: heksedit.rc:1195
 #, c-format
 msgid "Cannot open more than 2 GB of data."
-msgstr "Ni mogoče odpreti veEkot 2 GB podatkov."
+msgstr "Ni mogoče odpreti več kot 2 GB podatkov."
 
 #: heksedit.rc:1196
 #, c-format
@@ -2268,7 +2268,7 @@ msgstr "Določeno število bajtov za nalaganje večje od velikosti datoteke."
 #: heksedit.rc:1197
 #, c-format
 msgid "Too many bytes to load."
-msgstr "PreveEbajtov z analaganje."
+msgstr "Preveč bajtov za nalaganje."
 
 #: heksedit.rc:1203
 #, c-format
@@ -2469,7 +2469,7 @@ msgid ""
 "Ignore further invalid offsets?"
 msgstr ""
 "Najden je neveljaven odmik.\n"
-"Prezrem nadaljnje neveljavne odmike?"
+"Želite prezreti nadaljnje neveljavne odmike?"
 
 #: heksedit.rc:1260
 #, c-format
@@ -2479,7 +2479,7 @@ msgid ""
 "NB: Hex data will be used when ignoring."
 msgstr ""
 "Podatki o znaku se ne ujemajo s 16-tiškimi podatki.\n"
-"Prezrem nadaljnje neusklajene podatke?\n"
+"Želite prezreti neusklajene podatke?\n"
 "NB: 16-tiški podatki bodo uporabljeni pri prezrtju."
 
 #: heksedit.rc:1261
@@ -2516,7 +2516,7 @@ msgstr ""
 #: heksedit.rc:1264
 #, c-format
 msgid "characters other than whitespace and hexdigits (like Frhed display)."
-msgstr "drugih znakov razen presledka in šestnajstih (kot prikazovalnik Frhed)."
+msgstr "drugih znakov razen presledka in 16-tiške številke (kot prikazovalnik Frhed)."
 
 #: heksedit.rc:1265
 #, c-format
@@ -2747,22 +2747,17 @@ msgstr "Ime datoteke in pot: "
 #: heksedit.rc:1345
 #, c-format
 msgid "\nPartially opened at offset 0x%zx = %zd.\nNumber of bytes read: %zd = %zd kilobytes.\n"
-msgstr ""
-"\n"
-"Delno odprto na odmiku 0x%zx = %zd.\n"
-"Število prebranih bajtov: %zd = %zd kilobajtov.\n"
+msgstr "\nDelno odprto na odmiku 0x%zx = %zd.\n"Število prebranih bajtov: %zd = %zd kilobajtov.\n"
 
 #: heksedit.rc:1346
 #, c-format
 msgid "\nFile size: %zu bytes = %zu kilobytes.\n"
-msgstr ""
-"\n"
-"Velikost datoteke: %zu bajtov = %zu kilobajtov.\n"
+msgstr "\n"Velikost datoteke: %zu bajtov = %zu kilobajtov.\n"
 
 #: heksedit.rc:1347
 #, c-format
 msgid "\nNumber of hexdump lines: %zu.\n"
-msgstr ""
+msgstr "\nŠtevilo vrstic hexdump : %zu.\n"
 
 #: heksedit.rc:1348
 #, c-format
@@ -2772,7 +2767,7 @@ msgstr "Te datoteke ni bilo mogoče dostopati in bo odstranjena s seznama nedavn
 #: heksedit.rc:1349
 #, c-format
 msgid "Really reset colors to default values?"
-msgstr "Ali naj resnično ponastavim barve na privzete vrednosti?"
+msgstr "Ali res želite ponastaviti barve na privzete vrednosti?"
 
 #: heksedit.rc:1350
 #, c-format
@@ -2787,7 +2782,7 @@ msgstr "Datoteke ni bilo mogoče izbrisati."
 #: heksedit.rc:1352
 #, c-format
 msgid "Really adopt the operating system colour scheme?"
-msgstr "Ali naj resnično sprejmem barvno shemo operacijskega sistema?"
+msgstr "Ali res želite sprejeti barvno shemo operacijskega sistema?"
 
 #: heksedit.rc:1358
 #, c-format
